@@ -31,8 +31,8 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 I need to use the filter command to get a subset of data of the people in triump down to smaller set of data comprised of DrugUser only.
 
-<!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!--
 
+<!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!--
 
 
 # Results
